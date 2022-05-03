@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @eric-sherrill Sr. Customer Success Engineer at ChaosSearch
+- 👋 Hi, I’m @eric-sherrill ex-Sr. Customer Success Engineer at ChaosSearch (as of April 2022)
 - 👀 I’m interested in AWS, GCP, Azure, logging, log analytics, databases, object storage, and other cloudy things
 - 🌱 I’m currently learning Python, Go, JavaScript, and Java, plus more Perl and bash / zsh shell scripting
 - 💞️ I’m looking to collaborate on anything that can help people save money in the cloud!
-- 📫 How to reach me: eric .dot. sherrill @at@ chaossearch .dot. com
+- 📫 How to reach me: eric .dot. sherrill @at@ gmail .dot. com
 
 <!---
 eric-sherrill/eric-sherrill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
