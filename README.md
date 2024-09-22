@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @eric-sherrill ex-Staff Software Engineer at Devo (as of November 2022)
-- 👀 I’m interested in AWS, GCP, Azure, logging, log analytics, databases, object storage, and other cloudy things
-- 🌱 I’m currently learning Python, Go, JavaScript, and Java, plus more Perl and bash / zsh shell scripting
+- 👋 Hi, I’m @eric-sherrill ex-Systems Architect at UI Solutions Group (as of August 2024)
+- 👀 I’m interested in AWS, GCP, Azure, security, logging, log analytics, databases, object storage, and other cloudy things
+- 🌱 I’m currently learning Python, Go, JavaScript, TypeScript, and Java, plus more Perl and bash / zsh shell scripting
 - 💞️ I’m looking to collaborate on anything that can help people save money in the cloud!
 - 📫 How to reach me: eric .dot. sherrill @at@ gmail .dot. com
 
